@@ -34,3 +34,11 @@ ikonik arabalar için yaptığımızı anasayfa, günümüz arabalar ve hakkım�
 
 şimdi anasayfaya tıkladığım zaman bir tane fotoğraf görüyorum fakat ikonik arabalara tıkladığım zaman o gördüğüm arabanın üstüne iki tane araba daha ekleniyor ben bunuın olmasını istemiyorum. benim istediğim anasayfaya tıladığımda sadece anasayfada olanlar gözüksün ardından ikonik veya bir başkasına tıkladığım zaman ordaki fotoğraflar gözüksün birinin üzerine ekleme yapmasın. demek istediğimi anlatabildim mi? anladın mı tam olarak? anlamadıysan anlamadığın kısmı sorabilirsin
 
+ı want to lamborghini supercar
+
+ı want to ferrari supercar
+
+ı want to nissan gtr r34
+
+ı want to porsche supercar
+

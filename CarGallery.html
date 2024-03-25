@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Araba Galerisi</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Araba Galerisi</h1>
+        <nav>
+            <ul>
+                <li><a href="#" onclick="showHomePage(); clearIconicCarPhotos(); clearGunumuzCarsPhotos(); clearAboutUsPhotos();">Anasayfa</a></li>
+                <li><a href="#" onclick="showIconicCars(); clearHomePagePhotos(); clearGunumuzCarsPhotos(); clearAboutUsPhotos();" >İkonik Arabalar</a></li>
+                <li><a href="#" onclick="showGunumuzCars(); clearHomePagePhotos(); clearIconicCarPhotos(); clearAboutUsPhotos();">Günümüz Arabalar</a></li>
+                <li><a href="#"onclick="showAboutUs(); clearHomePagePhotos(); clearIconicCarPhotos(); clearGunumuzCarsPhotos();">Hakkımızda</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="anasayfa">
+            
+            <div id="home-page-photos">
+                
+            </div> <!-- Anasayfa fotoğraflarını göstereceğimiz alan -->
+        </section>
+
+        <section id="ikonik-arabalar">
+           
+            <div id="iconic-car-photos">
+               
+            </div> <!-- İkonik arabaların fotoğraflarını göstereceğimiz alan -->
+        </section>
+
+        <section id="gunumuz-arabalari">
+
+            <div id="gunumuz-car-photos">
+               
+            </div><!-- Günümüz arabalarının listesi buraya gelecek -->
+        </section>
+
+        <section id="hakkimizda">
+            
+            <div id="about-us-photos">
+                
+            </div> <!-- about-us-photos fotoğraflarını göstereceğimiz alan -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Araba Galerisi</p>
+    </footer>
+
+    <script src="car_photos.js"></script> <!-- JavaScript dosyamızı dahil ediyoruz -->
+</body>
+</html>
